@@ -139,6 +139,7 @@ body{
 }
 .codelink{
     position:fixed;
+    right:20px;
     bottom:20px;
     /*  I want this to be text gradient */ 
     font-weight:700;
